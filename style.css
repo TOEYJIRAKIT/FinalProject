@@ -1,0 +1,113 @@
+* {
+  font-family: "Noto Sans Thai", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding-bottom: 100px;
+  background-color: #f2edf3;
+  overflow-x: hidden;
+}
+
+.card {
+  border-radius: 0.5rem;
+}
+
+.swal2-popup {
+  width: 50em;
+}
+
+.navbar {
+  height: 80px;
+  padding: 0em 3em 0em 3em;
+}
+
+.navbar-brand {
+  color: blue;
+}
+
+.nav-link:hover {
+  background-color: #f2f2f2;
+}
+
+.dropdown-menu {
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-item:hover {
+  background-color: #f2f2f2;
+}
+
+#Create {
+  color: #fff;
+  background-color: #9a55ff;
+  border-color: #954ffe;
+}
+
+#Create:hover {
+  color: #fff;
+  background-color: #893dfb;
+  border-color: #8638fb;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+#btn-delete {
+  color: #fff;
+  background-color: #fe7096;
+  border-color: #ff6890;
+}
+
+#btn-delete:hover {
+  color: #fff;
+  background-color: #fc4777;
+  border-color: #fc4777;
+}
+
+#btn-edit {
+  color: #fff;
+  background-color: #999a9a;
+  border-color: #8a8a8a;
+}
+
+#btn-edit:hover {
+  color: #fff;
+  background-color: #656666;
+  border-color: #656666;
+}
+
+#header {
+  color: #fff;
+  background-color: #9a55ff;
+}
+
+th {
+  display: table-cell;
+  vertical-align: inherit;
+  font-weight: 500;
+  text-align: -internal-center;
+}
+
+#ebook {
+  color: #9a55ff;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #9a55ff;
+  font-weight: 600;
+  transition: color 0.5s ease;
+}
+
+.nav-item {
+  margin-left: 20px;
+}
